@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [itHub Flavored Markdown](#ithub-flavored-markdown)
+  - [A bit of the GitHub spice](#a-bit-of-the-github-spice)
+  - [Math is hard, let's go shopping](#math-is-hard-lets-go-shopping)
+  - [We all like making lists](#we-all-like-making-lists)
+  - [I am a robot](#i-am-a-robot)
+  - [Set in stone](#set-in-stone)
+  - [Playing the blame game](#playing-the-blame-game)
+  - [Table for two](#table-for-two)
+  - [Crazy linking action](#crazy-linking-action)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 itHub Flavored Markdown
 ================================
 
