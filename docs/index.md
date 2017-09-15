@@ -1,6 +1,6 @@
 Table of Contents
 
-[Guide 1](/docs/Guide1/Chapter1.md)
+[Guide 1](/docs/Guide1/TOC_Guide1.md)
 
 
 itHub Flavored Markdown
