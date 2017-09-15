@@ -1,6 +1,6 @@
 Table of Contents
 
-[Guide 1](TOC for Guide1.md)
+[Guide 1](/Guide1/TOC for Guide1.md)
 
 
 itHub Flavored Markdown
