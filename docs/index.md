@@ -1,5 +1,7 @@
 Table of Contents
 
+[Guide 1](TOC for Guide1.md)
+
 
 itHub Flavored Markdown
 ================================
