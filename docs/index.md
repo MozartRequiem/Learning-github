@@ -2,6 +2,8 @@ Table of Contents
 
 [Guide 1](/docs/Guide1/TOCGuide1.md)
 
+[Checking for HTML conversion](TestforHTML.md)
+
 
 itHub Flavored Markdown
 ================================
